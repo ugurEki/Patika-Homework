@@ -1,4 +1,4 @@
-# Patika-Homework
+# Patika-Homework Veri Yapıları ve Algoritmalar
 
 ## Insertion Sort
 
