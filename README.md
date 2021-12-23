@@ -85,7 +85,9 @@
 [0, 1, 2, 3, 4, 5, 6, 7, 8, 9](sorted array)
 
 root  = 5
+
 on the right side of the root = 7
+
 on the left side of root = 3
 
                                                                    5       
